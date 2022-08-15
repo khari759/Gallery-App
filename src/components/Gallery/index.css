@@ -1,0 +1,26 @@
+/* Write your code here. */
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  width: 80%;
+  height: 70%;
+  padding-top: 25px;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 20px;
+}
+.para {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-size: 15px;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+}
